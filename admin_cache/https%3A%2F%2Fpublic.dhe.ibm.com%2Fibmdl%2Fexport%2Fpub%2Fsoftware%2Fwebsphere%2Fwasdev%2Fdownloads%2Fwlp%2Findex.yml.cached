@@ -1,0 +1,46 @@
+# version: uri
+---
+
+21.0.0_09:
+    license: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/21.0.0.9/lafiles/runtime/en.html
+    kernel: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/21.0.0.9/wlp-kernel-21.0.0.9.zip
+    webProfile7: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/21.0.0.9/wlp-webProfile7-21.0.0.9.zip
+    javaee7: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/21.0.0.9/wlp-javaee7-21.0.0.9.zip
+    microProfile1: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/21.0.0.9/wlp-microProfile1-21.0.0.9.zip
+    webProfile8: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/21.0.0.9/wlp-webProfile8-21.0.0.9.zip
+    javaee8: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/21.0.0.9/wlp-javaee8-21.0.0.9.zip
+
+21.0.0_06:
+    license: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/21.0.0.6/lafiles/runtime/en.html
+    kernel: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/21.0.0.6/wlp-kernel-21.0.0.6.zip
+    webProfile7: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/21.0.0.6/wlp-webProfile7-21.0.0.6.zip
+    javaee7: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/21.0.0.6/wlp-javaee7-21.0.0.6.zip
+    microProfile1: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/21.0.0.6/wlp-microProfile1-21.0.0.6.zip
+    webProfile8: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/21.0.0.6/wlp-webProfile8-21.0.0.6.zip
+    javaee8: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/21.0.0.6/wlp-javaee8-21.0.0.6.zip
+
+21.0.0_10:
+    license: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/21.0.0.10/lafiles/runtime/en.html
+    kernel: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/21.0.0.10/wlp-kernel-21.0.0.10.zip
+    webProfile7: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/21.0.0.10/wlp-webProfile7-21.0.0.10.zip
+    javaee7: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/21.0.0.10/wlp-javaee7-21.0.0.10.zip
+    microProfile1: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/21.0.0.10/wlp-microProfile1-21.0.0.10.zip
+    webProfile8: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/21.0.0.10/wlp-webProfile8-21.0.0.10.zip
+    javaee8: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/21.0.0.10/wlp-javaee8-21.0.0.10.zip
+
+8.5.5_09:
+    uri: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/8.5.5.9/wlp-runtime-8.5.5.9.jar
+    license: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/8.5.5.9/lafiles/runtime/en.html
+    extended: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/8.5.5.9/wlp-extended-8.5.5.9.jar
+    kernel: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/8.5.5.9/wlp-kernel-8.5.5.9.zip
+    webProfile7: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/8.5.5.9/wlp-webProfile7-8.5.5.9.zip
+    javaee7: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/8.5.5.9/wlp-javaee7-8.5.5.9.zip
+
+2020.10.0_0:
+   license: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/beta/lafiles/en.html
+   webProfile7: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/beta/wlp-beta-2020.10.0.0.zip
+
+2020.11.0_0:
+   license: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/beta/lafiles/en.html
+   webProfile7: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/beta/wlp-beta-2020.11.0.0.zip
+

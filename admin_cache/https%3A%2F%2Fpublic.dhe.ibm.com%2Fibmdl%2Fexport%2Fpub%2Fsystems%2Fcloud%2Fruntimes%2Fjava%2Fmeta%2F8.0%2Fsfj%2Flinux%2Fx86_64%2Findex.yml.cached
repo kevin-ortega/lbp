@@ -1,0 +1,12 @@
+# version: uri
+---
+8.0.6.35:
+    uri: https://public.dhe.ibm.com/ibmdl/export/pub/systems/cloud/runtimes/java/8.0.6.35/linux/x86_64/ibm-java-sfj-8.0-6.35-x86_64-archive.bin
+    sha256sum: d9ad4dd78cde42b44a0e9ba91d6b85fb134b56fb30ef0009153cfba54778978e
+    license: http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?l=en&la_formnum=&li_formnum=L-SMKR-AVSEUH
+
+8.0.6.36:
+    uri: https://public.dhe.ibm.com/ibmdl/export/pub/systems/cloud/runtimes/java/8.0.6.36/linux/x86_64/ibm-java-sfj-8.0-6.36-x86_64-archive.bin
+    sha256sum: aee78edcb2b1eed2e89b60ecfd787c77cc86e1fea646d06e5064f33615379bef
+    license: http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?l=en&la_formnum=&li_formnum=L-SMKR-AVSEUH
+
