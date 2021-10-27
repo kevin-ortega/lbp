@@ -63,7 +63,7 @@ module LibertyBuildpack
         # @return [Void]
         def get(uri, &block)
           return if AdminCache.in_cache?(uri, &block)
-
+          @logger.debug { "**** IN download_cache.get()" }
           cached_file             = nil
           downloaded              = nil
 
@@ -73,7 +73,7 @@ module LibertyBuildpack
             cached_file = from_immutable_caches(uri)
             downloaded  = false
           end
-
+          @logger.debug { "**** IN download_cache.get() downloaded: #{downloaded}" }
           raise "Unable to find cached file for #{uri.sanitize_uri}" unless cached_file
           cached_file.cached(File::RDONLY | File::BINARY, downloaded, &block)
         end
